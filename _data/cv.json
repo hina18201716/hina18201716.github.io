@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Hina Suzuki",
+    "email": "hinas@arizona.edu",
+    "phone": "520-296-5721",
+    "website": "https://hinasuzuki.github.io",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,32 +33,15 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Arizona",
+      "area": "B.S. in Astronomy with minor in Electrical and Computer Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
+  
   ],
   "skills": [],
   "languages": [],
